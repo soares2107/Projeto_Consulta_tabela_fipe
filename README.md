@@ -47,7 +47,8 @@ Projeto_Consulta_tabela_fipe/
 ├── style.css            # Estilos da aplicação
 ├── script.js            # Lógica da aplicação e integração com a API
 └── img/
-    └── captura_tela.png # Imagem ilustrativa da aplicação
+    └── print.png # Imagem ilustrativa da aplicação
+    └──fibra.png  #Fundo de tela
 ```
 
 ## 📌 Observações
